@@ -1,0 +1,15 @@
+packages=(
+  xdg-desktop-portal-hyprland-git
+  dunst
+  wireplumber
+  pipewire
+  qt5-wayland
+  qt6-wayland
+  waybar-hyprland-git
+  hyprpaper-git
+  rofi-lbonn-wayland
+  hyprpicker
+  sddm
+  lxappearance
+  webcord
+)
